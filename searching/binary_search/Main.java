@@ -1,5 +1,7 @@
 package searching.binary_search;
 
+import sorting.bubble_sort.BubbleSort;
+
 public class Main {
     public static void main(String args[])
     {
